@@ -1,0 +1,16 @@
+/* *{
+    Hexadecimal = #000fff
+    background-color: darkgray;
+} */
+
+
+h6{
+    background-color: blue;
+}
+
+.parrafo{
+    border: 0.1em dashed blueviolet;
+}
+.parrafo2{
+    background-color: brown;
+}
