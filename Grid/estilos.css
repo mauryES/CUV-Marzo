@@ -1,0 +1,11 @@
+.contenedor{
+    margin: 10% 10% 10% 10%;
+    border: solid black;
+    display: grid;
+    grid-template-columns: 50px 50px 50px;
+    grid-template-rows: 60px 60px;
+    gap: 10px;
+}
+.grid{
+    border: dotted red;
+}

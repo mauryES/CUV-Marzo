@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+}
+.superContenedor{
+    display: flex;
+}
+.publicidad{
+    display: flex;
+}
+.addimg{
+    width: 10%;
+}
+.contenedorPadre{
+    display: flexbox;
+    margin: 3% 25% 10% 3%;
+}
+.articulo{
+    margin: 10px;
+    padding: 5px;
+}
+.parrafo{
+    display: flex;
+}
+.parrafosDos{
+    display: flex;
+}
+p{
+    width: 40%;
+}
+img{
+    width: 50%;
+}
